@@ -16,6 +16,7 @@
 
 .bg-header {
     background-color: orange;
+    height: 50px;
 }
 
 .margin-text{
@@ -29,4 +30,9 @@
 
 .margin-top {
     margin-top: 20px;
+}
+
+.fb-cards {
+    display: flex;
+    justify-content: space-between;
 }
