@@ -12,9 +12,13 @@
 
 .page-margin {
     margin-inline: 400px;
-    margin-top: 10px;
 }
 
 .bg-header {
     background-color: orange;
+}
+
+.margin-text{
+    padding-top: 10px;
+    color: white;
 }
