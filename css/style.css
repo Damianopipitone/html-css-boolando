@@ -49,3 +49,8 @@
 .black-text {
     color: black;
 }
+
+.fb-footer {
+    display: flex;
+    justify-content: space-between;
+}
