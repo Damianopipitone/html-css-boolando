@@ -36,3 +36,16 @@
     display: flex;
     justify-content: space-between;
 }
+
+.border-cards {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.red-text {
+    color: red;
+}
+
+.black-text {
+    color: black;
+}
