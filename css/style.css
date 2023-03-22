@@ -41,7 +41,7 @@
 .border-cards {
     border-style: solid;
     border-width: 1px;
-    border-color: rgb(127, 127, 127);
+    border-color: rgba(127, 127, 127, 0.318);
 }
 
 .red-text {
@@ -54,7 +54,8 @@
 
 .fb-footer {
     display: flex;
-    justify-content: space-between;
+    justify-items: space-around;
+    flex-basis:auto;
 }
 
 .white-text {
@@ -68,4 +69,8 @@
 
 .bottom-padding {
     padding-bottom: 50px;
+}
+
+.footer-items {
+   justify-content: space-around;
 }
