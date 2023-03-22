@@ -22,6 +22,7 @@
 .margin-text{
     padding-top: 10px;
     color: white;
+    
 }
 
 .title-position {
@@ -40,6 +41,7 @@
 .border-cards {
     border-style: solid;
     border-width: 1px;
+    border-color: rgb(127, 127, 127);
 }
 
 .red-text {
@@ -53,4 +55,17 @@
 .fb-footer {
     display: flex;
     justify-content: space-between;
+}
+
+.white-text {
+    color: white;
+}
+
+.bg-footer {
+   color: rgb(12, 12, 12);
+   height: 50px;
+}
+
+.bottom-padding {
+    padding-bottom: 50px;
 }
